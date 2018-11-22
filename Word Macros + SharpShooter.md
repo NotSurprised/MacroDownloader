@@ -1,4 +1,4 @@
-# Creating Word Macros to AutoRun Downloader via Word Document
+# Word Macros + SharpShooter
 
 https://www.sciencedirect.com/science/article/pii/S1353485817300491
 https://screwnomore.wordpress.com/2015/11/06/creating-malicious-word-macros-tutorial-autorun-stub-via-word-document/
